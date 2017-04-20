@@ -37,4 +37,5 @@ obj.add_user('puneeth',123)
 obj.add_user('madhu',235)
 
 obj.make_message()
+print(obj.get_details())
 print(obj.messages)
